@@ -7,7 +7,7 @@ import NavBar from "./components/NavBar/NavBar"
 import PatientDiagnosisHistory from "./components/PatientDiagnosisHistory/PatientDiagnosisHistory"
 import PatientProfile from "./components/PatientProfile/PatientProfile"
 import PatientsList from "./components/PatientsList/PatientsList"
-import useFetchDiagnosisHistory from "./components/customHooks/UseFetchDiagnosisHistory"
+import useFetchDiagnosisHistory from './components/customHooks/useFetchDiagnosisHistory.jsx';
 import { useEffect, useState } from "react"
 
 
