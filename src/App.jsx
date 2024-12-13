@@ -2,7 +2,7 @@
 
 import DiagnosticList from "./components/DiagnosticList/DiagnosticList"
 import LabResult from "./components/LabResults/LabResult"
-import Navbar from "./components/NavBar/Nav"
+
 import NavBar from "./components/NavBar/NavBar"
 import PatientDiagnosisHistory from "./components/PatientDiagnosisHistory/PatientDiagnosisHistory"
 import PatientProfile from "./components/PatientProfile/PatientProfile"
